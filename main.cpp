@@ -1,4 +1,3 @@
-шо робить цей код
 #include <iostream>
 #include <locale>
 int main()
