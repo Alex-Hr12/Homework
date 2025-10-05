@@ -1,4 +1,3 @@
-прероби цей код 
 #include <iostream>
 #include <locale>
 int main()
@@ -12,7 +11,7 @@ for(i; i<=max;i++)
 if(i % 2 == 0)
 {
 sum=sum+i;
-}перероби
+}
 }
 std::cout<<sum;
 }
